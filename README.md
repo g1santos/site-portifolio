@@ -1,2 +1,2 @@
 # site-portifolio
-Site portifólio com HTML e CSS Transitions
+Site portifólio com HTML e CSS Transitions com Reponsividade.
